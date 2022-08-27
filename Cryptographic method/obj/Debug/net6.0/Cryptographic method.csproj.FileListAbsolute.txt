@@ -1,0 +1,30 @@
+C:\Users\27616\source\repos\Cryptographic method\bin\Debug\net6.0\Cryptographic method.exe
+C:\Users\27616\source\repos\Cryptographic method\bin\Debug\net6.0\Cryptographic method.deps.json
+C:\Users\27616\source\repos\Cryptographic method\bin\Debug\net6.0\Cryptographic method.runtimeconfig.json
+C:\Users\27616\source\repos\Cryptographic method\bin\Debug\net6.0\Cryptographic method.dll
+C:\Users\27616\source\repos\Cryptographic method\bin\Debug\net6.0\Cryptographic method.pdb
+C:\Users\27616\source\repos\Cryptographic method\obj\Debug\net6.0\Cryptographic method.csproj.AssemblyReference.cache
+C:\Users\27616\source\repos\Cryptographic method\obj\Debug\net6.0\Cryptographic method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\27616\source\repos\Cryptographic method\obj\Debug\net6.0\Cryptographic method.AssemblyInfoInputs.cache
+C:\Users\27616\source\repos\Cryptographic method\obj\Debug\net6.0\Cryptographic method.AssemblyInfo.cs
+C:\Users\27616\source\repos\Cryptographic method\obj\Debug\net6.0\Cryptographic method.csproj.CoreCompileInputs.cache
+C:\Users\27616\source\repos\Cryptographic method\obj\Debug\net6.0\Cryptographic method.dll
+C:\Users\27616\source\repos\Cryptographic method\obj\Debug\net6.0\refint\Cryptographic method.dll
+C:\Users\27616\source\repos\Cryptographic method\obj\Debug\net6.0\Cryptographic method.pdb
+C:\Users\27616\source\repos\Cryptographic method\obj\Debug\net6.0\Cryptographic method.genruntimeconfig.cache
+C:\Users\27616\source\repos\Cryptographic method\obj\Debug\net6.0\ref\Cryptographic method.dll
+C:\Users\27616\Desktop\CTU2\PRG\PRG Fa1\Cryptographic method\bin\Debug\net6.0\Cryptographic method.exe
+C:\Users\27616\Desktop\CTU2\PRG\PRG Fa1\Cryptographic method\bin\Debug\net6.0\Cryptographic method.deps.json
+C:\Users\27616\Desktop\CTU2\PRG\PRG Fa1\Cryptographic method\bin\Debug\net6.0\Cryptographic method.runtimeconfig.json
+C:\Users\27616\Desktop\CTU2\PRG\PRG Fa1\Cryptographic method\bin\Debug\net6.0\Cryptographic method.dll
+C:\Users\27616\Desktop\CTU2\PRG\PRG Fa1\Cryptographic method\bin\Debug\net6.0\Cryptographic method.pdb
+C:\Users\27616\Desktop\CTU2\PRG\PRG Fa1\Cryptographic method\obj\Debug\net6.0\Cryptographic method.csproj.AssemblyReference.cache
+C:\Users\27616\Desktop\CTU2\PRG\PRG Fa1\Cryptographic method\obj\Debug\net6.0\Cryptographic method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\27616\Desktop\CTU2\PRG\PRG Fa1\Cryptographic method\obj\Debug\net6.0\Cryptographic method.AssemblyInfoInputs.cache
+C:\Users\27616\Desktop\CTU2\PRG\PRG Fa1\Cryptographic method\obj\Debug\net6.0\Cryptographic method.AssemblyInfo.cs
+C:\Users\27616\Desktop\CTU2\PRG\PRG Fa1\Cryptographic method\obj\Debug\net6.0\Cryptographic method.csproj.CoreCompileInputs.cache
+C:\Users\27616\Desktop\CTU2\PRG\PRG Fa1\Cryptographic method\obj\Debug\net6.0\Cryptographic method.dll
+C:\Users\27616\Desktop\CTU2\PRG\PRG Fa1\Cryptographic method\obj\Debug\net6.0\refint\Cryptographic method.dll
+C:\Users\27616\Desktop\CTU2\PRG\PRG Fa1\Cryptographic method\obj\Debug\net6.0\Cryptographic method.pdb
+C:\Users\27616\Desktop\CTU2\PRG\PRG Fa1\Cryptographic method\obj\Debug\net6.0\Cryptographic method.genruntimeconfig.cache
+C:\Users\27616\Desktop\CTU2\PRG\PRG Fa1\Cryptographic method\obj\Debug\net6.0\ref\Cryptographic method.dll
